@@ -5,10 +5,15 @@ Submission for my Capital One Summit Challenge
 Use the yelp_api.py to locally run and print out recommendations based on your inputs! For example:
 
 What's your location? Ex. zip code, city: San Jose
+
 What type of restaurant are you trying to go to?: Ethiopian
+
 Enter how much money you're willing to spend! 1 for fast food, 4 for very pricey $$$ : '1, 2'
+
 Sort by? ex. rating : rating
+
 ~~~~~~~~~~~~~Finding Recommended Restaurants (*^◇^)_旦~~~~~~~~~~
+
 Name : Jubba Restaurant
 Address :
 5330 Terner Way
