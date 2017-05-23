@@ -1,5 +1,6 @@
 # Foodie_App
 Submission for my Capital One Summit Challenge
+Used Bootstrap for the website and python for the backend
 
 
 Use the yelp_api.py to locally run and print out recommendations based on your inputs! For example:
@@ -12,7 +13,7 @@ Enter how much money you're willing to spend! 1 for fast food, 4 for very pricey
 
 Sort by? ex. rating : rating
 
-~~~~~~~~~~~~~Finding Recommended Restaurants (*^◇^)_旦~~~~~~~~~~
+Finding Recommended Restaurants
 
 Name : Jubba Restaurant
 Address :
@@ -25,5 +26,5 @@ Address :
 2208 Business Cir
 San Jose, CA 95128
 
-Furthermore, I used Bootstrap to set up the website.
+
 
