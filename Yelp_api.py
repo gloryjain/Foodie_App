@@ -16,9 +16,6 @@ params = {'location': location,
           'sort_by': sort_by 
          }
 
-
-app_id = 'FZATfc4ra4iT70SRsPW44g'
-app_secret = 'irZsZ5NChA85wb1TDJFxs2ukuwwWRcH6WGVpJglg828cQDjSp9IHW9ZvGSbPKtWW'
 data = {'grant_type': 'client_credentials',
         'client_id': app_id,
         'client_secret': app_secret}
